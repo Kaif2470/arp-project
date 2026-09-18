@@ -1,6 +1,0 @@
-{
-  "name": "ARP Sentinel — Intrusion Detection & Prevention System",
-  "description": "Real-Time Network Threat Monitoring & Automated Response Simulation showcasing ARP Spoofing detection and mitigation in an educational SOC environment.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
